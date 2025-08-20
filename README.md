@@ -132,7 +132,8 @@ streamlit run analysis/streamlit_app.py
 
 The interactive dashboard provides real-time exploration of algorithm performance metrics.
 
-![Dashboard Screenshot](analysis/figures/dashboard_screenshot.png)
+![Dashboard Screenshot]<img width="1470" height="955" alt="Screenshot 2025-08-20 at 3 35 31 PM" src="https://github.com/user-attachments/assets/58231a86-13c7-4808-b961-b1e06c72f804" />
+
 *Interactive dashboard for exploring algorithm performance*
 
 ### Dashboard Features
