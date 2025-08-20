@@ -111,15 +111,11 @@ streamlit run analysis/streamlit_app.py
 
 ### Performance Analysis
 
-![Runtime vs Nodes](analysis/figures/runtime_vs_nodes.png)
-*Figure 1: Algorithm runtime scaling with increasing graph size*
+<img width="1440" height="960" alt="maxflow_flow_vs_runtime" src="https://github.com/user-attachments/assets/d138defa-f4ea-4a4c-af4f-ce02174b62ea" />
+<img width="1440" height="960" alt="memory_vs_runtime" src="https://github.com/user-attachments/assets/9b12cf0e-94d3-4dff-9d8d-dc9f515e3aae" />
+<img width="1440" height="960" alt="runtime_vs_density" src="https://github.com/user-attachments/assets/e66b7701-694e-46fd-b62b-0606333d19dc" />
+<img width="1440" height="960" alt="runtime_vs_nodes" src="https://github.com/user-attachments/assets/b0a27e20-2d50-43a7-b89c-5a978d13c6f4" />
 
-![Memory vs Runtime]<img width="1440" height="960" alt="memory_vs_runtime" src="https://github.com/user-attachments/assets/33a3dd25-7b28-48bb-aa27-53ffa63ef017" />
-
-*Figure 2: Memory consumption relative to execution time*
-
-![Algorithm Comparison](analysis/figures/algorithm_comparison.png)
-*Figure 3: Comparative performance of all algorithms on dense graphs*
 
 ### Key Findings
 - Dijkstra outperforms Bellman-Ford on sparse graphs but has similar complexity on dense graphs
