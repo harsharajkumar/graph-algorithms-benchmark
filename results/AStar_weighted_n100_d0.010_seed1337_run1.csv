@@ -1,0 +1,2 @@
+Step,Action,Node,Neighbor,OldG,NewG,H,NewF,OpenSize
+0,Pop,57,,,,,,0
