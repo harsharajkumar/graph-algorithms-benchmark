@@ -114,7 +114,8 @@ streamlit run analysis/streamlit_app.py
 ![Runtime vs Nodes](analysis/figures/runtime_vs_nodes.png)
 *Figure 1: Algorithm runtime scaling with increasing graph size*
 
-![Memory vs Runtime](analysis/figures/memory_vs_runtime.png)
+![Memory vs Runtime]<img width="1440" height="960" alt="memory_vs_runtime" src="https://github.com/user-attachments/assets/33a3dd25-7b28-48bb-aa27-53ffa63ef017" />
+
 *Figure 2: Memory consumption relative to execution time*
 
 ![Algorithm Comparison](analysis/figures/algorithm_comparison.png)
