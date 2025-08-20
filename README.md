@@ -1,7 +1,5 @@
 # Graph Algorithms Benchmark
 
-A comprehensive Java project benchmarking classical graph algorithms (BFS, DFS, Dijkstra, Bellman-Ford, A*, Max Flow, Bipartite Check) on various graph sizes and densities. Includes result analysis with Python plots and an interactive Streamlit dashboard to visualize algorithm performance.
-
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22%2B-red)
